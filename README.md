@@ -6,3 +6,5 @@ An introduction to the popular Python library "Matplotlib".
 2. Read notes accordingly, this graph is to show the trend lines of different median salaries developers earn throughout their years working. 
 
 3. All salary data was manually imported/created. 
+
+4. Thanks to Corey Schafer for sharing the original version of this code. 
